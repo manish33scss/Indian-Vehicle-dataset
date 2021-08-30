@@ -9,3 +9,9 @@ Car, Autorickshaw, Person, ElectricRickshaw, Truck, Motorcycle, Bus and RiderNoH
 With this I've also uploaded a weight file for you guys to start from. 
 
 These are annotated using "LableIMG" , in .txt format. 
+
+
+
+# Use this link to download. 
+https://drive.google.com/file/d/1wRKXaWrML2NNEeUqZvzeUjEIsfXLbgK_/view?usp=sharing
+
